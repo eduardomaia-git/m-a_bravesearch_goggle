@@ -1,0 +1,18 @@
+! name: M&A Search
+! description: Boosts M&A news results, allowing you to search primarily for news on trusted websites
+! public: true
+! author: Me
+
+$boost=4,site=valor.globo.com
+$boost=4,site=neofeed.com.br
+$boost=4,site=startups.com.br
+$boost=4,site=fusoesaquisicoes.com
+$boost=4,site=startupi.com.br
+$boost=4,site=www.infomoney.com.br
+$boost=4,site=exame.com
+$boost=4,site=moneytimes.com.br
+$boost=4,site=www.reuters.com
+$boost=4,site=revistapegn.globo.com
+$boost=4,site=braziljournal.com
+$boost=4,site=agfeed.com.br
+$boost=4,site=tiinside.com.br
