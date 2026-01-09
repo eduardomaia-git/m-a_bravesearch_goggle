@@ -1,9 +1,7 @@
-! name: Social Search
-! description: Boosts social media results, allowing you to search primarily for an entity or trend on social media 
+! name: M&A Search
+! description: Boosts M&A news results, allowing you to search primarily for news on trusted websites
 ! public: true
-! author: YasTen
-! avatar: #fc8d1e
-! issues: github.com/yasten/Social-Search-Brave-Goggle
+! author: Me
 
-$site=valor.globo.com,boost=4
-$site=neofeed.com.br,boost=4
+$boost=4,site=valor.globo.com
+$boost=4,site=neofeed.com.br
